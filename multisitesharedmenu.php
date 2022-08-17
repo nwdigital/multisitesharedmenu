@@ -3,14 +3,14 @@
  * Plugin Name:       Multisite Master Shared Menu
  * Plugin URI:        https://NWDigital.cloud/plugins/menufromsite
  * Description:       Allows users in a WordPress multisite network pull in a menu from another site in order to achieve a universal navigation or shared navigation without needing to manually recreate menus. Site is required to be installed on WordPress Multisite environment.
- * Version:           1.3
+ * Version:           1.4
  * Author:            Mathew Moore
  * Author URI:        https://NWDigital.cloud
  */
- 
- /*  
+
+ /*
     This program is free software; you can redistribute it and/or modify
-    it under the terms of the GNU General Public License, version 2, as 
+    it under the terms of the GNU General Public License, version 2, as
     published by the Free Software Foundation.
 
     This program is distributed in the hope that it will be useful,
@@ -49,5 +49,5 @@ require plugin_dir_path( __FILE__) . 'inc/class-menufromsite.php';
 if( is_multisite() ) {
 	// Only run this menu if in multisite...
 	new MasterSharedMenu();
-	
+
 }
