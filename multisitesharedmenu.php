@@ -5,7 +5,7 @@
  * Description:       Allows users in a WordPress multisite network pull in a menu from another site in order to achieve a universal navigation or shared navigation without needing to manually recreate menus. Site is required to be installed on WordPress Multisite environment.
  * Version:           1.4
  * Requires at least: 4.6.0
- * Requires PHP:			7.0
+ * Requires PHP:      7.0
  * Author:            Mathew Moore
  * Author URI:        https://NWDigital.cloud
  * Update URI:				https://NWDigital.cloud/plugins/menufromsite/
