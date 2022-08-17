@@ -1,7 +1,7 @@
 === Multisite Shared Menu by NWDigital ===
 Contributors: mathewemoore
 Tags: widget, menu, menus, multisite, navigation
-Requires at least: 3.9
+Requires at least: 4.6.0
 Tested up to: 6.0.1
 Stable tag: 1.4
 License: GPLv2 or later
